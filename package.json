@@ -1,0 +1,16 @@
+{
+  "main": "index",
+  "name": "react-native-touchablefocus",
+  "version": "1.0.0",
+  "description": "A wrapper for touchable components that allow spatial navigation on android, ios & web TV platforms.",
+  "contributors": [
+    {
+      "name": "Tom Van Laerhoven",
+      "email": "tom.vanlaerhoven@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tadaam-tv/react-native-touchablefocus.git"
+  }
+}
